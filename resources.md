@@ -20,6 +20,8 @@
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+2. [Jetbrains Academy](https://hyperskill.org/join/4db19914)
+3. [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ## Books (both coding and non-coding)
 

@@ -34,3 +34,8 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 **Thoughts:** Will print the 'bend your brain into submission' part of the book tomorrow and paste on my wall. Didn't do much, Procrastination got me today. The [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/) looks promising, I am going to finish it in the fast and effective way.
 
+### Day 2: July 15, 2020 
+
+**Today's Progress**:  IntelliJ is the recommended IDE by the book, had to renew my license thanks to [GitHub Student Developer Pack](https://education.github.com/pack). While on Jetbrains, I remembered I signed up for [Jetbrains Academy](https://hyperskill.org/join/4db19914) earlier, checked and found out it's still free till January 2021 for me, sign up with [my link](https://hyperskill.org/join/4db19914) and get free 3 months on the platform. Putting it to good use, it's an awesome interactive platform. Started this [Simple_Chatty_Bot](https://github.com/LifeofDan-EL/Simple_Chatty_Bot/) project.
+
+**Thoughts:** I actually started the Academy when I signed up but I really didn't put any effort to it. I was in a hurry and was skipping some courses. Got posed some exercises and couln't solve most, I realized I have to take a chill pill and get my hands dirty with code, literally.
