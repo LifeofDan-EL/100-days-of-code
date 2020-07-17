@@ -44,6 +44,13 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 3: July 16, 2020 
 
-**Today's Progress**: Finished Chapter one of [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/), which is basically Getting Started: A Quick Dip. Completed the [Simple_Chatty_Bot Stage 3](https://github.com/LifeofDan-EL/Simple_Chatty_Bot/tree/Stage3) exercise, the part of getting it to count from 0 to any inputed number got me.
+**Today's Progress:** Finished Chapter one of [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/), which is basically Getting Started: A Quick Dip. Completed the [Simple_Chatty_Bot Stage 3](https://github.com/LifeofDan-EL/Simple_Chatty_Bot/tree/Stage3) exercise, the part of getting it to count from 0 to any inputted number got me.
 
-**Thoughts:** The exercises are really engaging and brain tasking. Had to use my pen to 'solve' for the expected outputs on the Mixed Messages exercise. The making of the to count from 0 to any inputed number, made me think of possibilties.
+**Thoughts:** The exercises are really engaging and brain tasking. Had to use my pen to 'solve' for the expected outputs on the Mixed Messages exercise. The making of the to count from 0 to any inputted number, made me think of possibilties.
+
+
+### Day 4: July 17, 2020 
+
+**Today's Progress:** Studied Basic Types and Variables, Worked on [PharaseOMatic](https://github.com/LifeofDan-EL/PharaseOMatic), it's basically a function that creates three arrays of words, randomly picks one word from each, and then joins them together.
+
+**Thoughts:** Apparently if data types are inferred on objects, e.g. var x : Int = 6, var z = x + 5. Due to the fact x has been assigned Dtat type of Int, z automatically copies the reference of it as an Int. Also I should be careful when doing conversions to not have spillovers, e.g. var x : Long = 2567875643233 var y = x.toInt().
