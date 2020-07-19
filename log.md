@@ -65,6 +65,6 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 6: July 19, 2020
 
-**Today's Progress:** Worked on the exercises at the end of Chapter 2. Basic types and variables: Being a Variable, finally done with the the Chapter. You can see some of the exercises here [Hello Kotlin](https://github.com/LifeofDan-EL/Hello_Kotlin/tree/master/src/HeadFirst)
+**Today's Progress:** Worked on the exercises at the end of Chapter 2. Basic types and variables: Being a Variable, finally done with the Chapter. You can see some of the exercises here [Hello Kotlin](https://github.com/LifeofDan-EL/Hello_Kotlin/tree/master/src/HeadFirst)
 
-**Thoughts:** So far so good things have been smooth. THe fact that I keep my pen and paper close by to solve challenges trill me. Is it just me or is that coding + music hits differently?
+**Thoughts:** So far so good things have been smooth. THe fact that I keep my pen and paper close by to solve challenges trill me. Is it just me or is that coding + music hits differently? Ohh I ran an infinite code, I used x =+ 1 rather than x += 1, I guess the count wasn't increasing so it kept on running and rerunning.
