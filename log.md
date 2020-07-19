@@ -63,7 +63,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 **Thoughts:** I think almost got myself worked out today, spent over 3 hours on my IDE. I feel exhausted a lot today, I guess I should reduce my pace a bit.
 
 
-### Day 5: July 18, 2020
+### Day 6: July 19, 2020
 
 **Today's Progress:** Worked on the exercises at the end of Chapter 2. Basic types and variables: Being a Variable, finally done with the the Chapter. You can see some of the exercises here [Hello Kotlin](https://github.com/LifeofDan-EL/Hello_Kotlin/tree/master/src/HeadFirst)
 
