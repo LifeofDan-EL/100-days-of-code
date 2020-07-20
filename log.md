@@ -67,4 +67,13 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 **Today's Progress:** Worked on the exercises at the end of Chapter 2. Basic types and variables: Being a Variable, finally done with the Chapter. You can see some of the exercises here [Hello Kotlin](https://github.com/LifeofDan-EL/Hello_Kotlin/tree/master/src/HeadFirst)
 
-**Thoughts:** So far so good things have been smooth. THe fact that I keep my pen and paper close by to solve challenges trill me. Is it just me or is that coding + music hits differently? Ohh I ran an infinite code, I used x =+ 1 rather than x += 1, I guess the count wasn't increasing so it kept on running and rerunning.
+**Thoughts:** So far so good things have been smooth. The fact that I keep my pen and paper close by to solve challenges trill me. Is it just me or is that coding + music hits differently? Ohh I ran an infinite code, I used x =+ 1 rather than x += 1, I guess the count wasn't increasing so it kept on running and rerunning.
+
+
+### Day 7: July 20, 2020
+
+**Today's Progress:** Started Chapter Three, Functions: Getting out of Main. Well so far, functions in Kotlin has been fun. Get it? Learnt about passing parameters or arguments also how return value works in function and also how to make the code shorter. Looked at for loop and ranges. Working on a simple Rock Paper Scissor game. The mixed messages in this Chapter is quite brain cracking, had to think like a compiler to determine how the code should run.
+
+**Thoughts:** Today something funny happened. Plugged my laptop and was using it in the morning while it was charging, or do I thought. After hours of the generator being on and it finally got off, didn't take up to 5 minutes and I saw low battery warning. Checked the charging cable for what was wrong and found out the head plug wasn't plugged in well. 
+
+**Non-coding Activity:** Well since I am already keeping a log of my coding progress, why can't I add spice to it? Well today I finally watched [Fantastic Beasts: The Crimes of Grindelwald](https://en.wikipedia.org/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald), it really wasn't amazing, just an average fantasy movie. Planned to watch anime and all but later decided to read the book, [The Rationale Male by Rollo Tomassi](https://www.amazon.com/Rational-Male-Rollo-Tomassi/dp/1492777862). It's been a good read so far, still in Chapter One of it though.  

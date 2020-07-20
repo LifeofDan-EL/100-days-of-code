@@ -27,6 +27,7 @@
 
 ### Non-Coding
 1. "How Africa was Underdeveloped by Europe" by Walter Roodney
+2. [The Rationale Male by Rollo Tomassi](https://www.amazon.com/Rational-Male-Rollo-Tomassi/dp/1492777862)
 
 ### Coding
 1. [Advanced Android App Architecture](https://store.raywenderlich.com/products/advanced-android-app-architecture)
