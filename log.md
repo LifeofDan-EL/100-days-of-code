@@ -81,8 +81,16 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 8: July 21, 2020
 
-**Today's Progress:** Spent today solving the [code block exercise](assets/dab.png) in the book. Compiler really does a lot underneath you know? Made this [Rock, Paper, Scissors game](https://github.com/LifeofDan-EL/Hello_Kotlin/blob/master/src/HeadFirst/Game.kt) [Link to game gif](assets/game.gif) though. Finished up Chapter Three, Functions: Getting out of Main. 
+**Today's Progress:** Spent today solving the [code block exercise](assets/dab.png) in the book. Compiler really does a lot underneath you know? Made this [Rock, Paper, Scissors] game (https://github.com/LifeofDan-EL/Hello_Kotlin/blob/master/src/HeadFirst/Game.kt) [Link to game gif](assets/game.gif) though. Finished up Chapter Three, Functions: Getting out of Main. 
 
 **Thoughts:** It's all going fine, although the calculation could be frustrating. Had to calm down and carefully solve the problem. Apparently there are not many screen recorders that record in gifs fo Linux, so best bet is to record and convert with a gif converter. I got [Gifcurry](https://github.com/lettier/gifcurry) to convert my screen I recorded with [Kazam](https://itsfoss.com/kazam-screen-recorder/).
 
-**Non-coding Activity:** Started [Black Bullet](https://en.wikipedia.org/wiki/Black_Bullet), Rentaora the protagonist is badass though. It's actually an interesting anime. Oh, a course mate of mine came to visit, Dominion, it's been a while since I had someone over.
+**Non-coding Activity:** Started [Black Bullet](https://en.wikipedia.org/wiki/Black_Bullet), Rentaro the protagonist is badass though. It's actually an interesting anime. Oh, a course mate of mine came to visit, Dominion, it's been a while since I had someone over.
+
+
+### Day 9: July 22, 2020
+**Today's Progress:** Started Chapter 4, Classes and Objects: A Bit of Class. Got better clarification of what happens behind the scene in objects. Looked at how to access properties and functions in classes. The [Code Magnet exercise](assets/drumkit.png) in this Chapter was a breeze[Link to answer](https://github.com/LifeofDan-EL/Hello_Kotlin/blob/master/src/HeadFirst/DrumKit.kt).
+
+**Thoughts:** A function that’s defined inside a class is called a member function. It’s sometimes called a method. A constructor contains the code that’s needed to initialize an object, it runs when you instantiate an object. It’s used to define properties and initialize. An object is sometimes known as an instance of a particular class, so it's properties are sometimes called instance variables
+
+**Non-coding Activity:** Finished [Black Bullet](https://en.wikipedia.org/wiki/Black_Bullet), it was 13 episodes long. In my opinion, I'll rate it a 7.5/10, it has the amazing anime hope ingredient. We also see how the several characters deal with loss, and good character development. Watched Alpha too, it was great. Who says you can't make a great movie with few casts?
