@@ -89,8 +89,18 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 9: July 22, 2020
-**Today's Progress:** Started Chapter 4, Classes and Objects: A Bit of Class. Got better clarification of what happens behind the scene in objects. Looked at how to access properties and functions in classes. The [Code Magnet exercise](assets/drumkit.png) in this Chapter was a breeze[Link to answer](https://github.com/LifeofDan-EL/Hello_Kotlin/blob/master/src/HeadFirst/DrumKit.kt).
+
+**Today's Progress:** Started Chapter 4, Classes and Objects: A Bit of Class. Got better clarification of what happens behind the scene in objects. Looked at how to access properties and functions in classes. The [Code Magnet exercise](assets/drumkit.png) in this Chapter was a breeze [Link to answer](https://github.com/LifeofDan-EL/Hello_Kotlin/blob/master/src/HeadFirst/DrumKit.kt).
 
 **Thoughts:** A function that’s defined inside a class is called a member function. It’s sometimes called a method. A constructor contains the code that’s needed to initialize an object, it runs when you instantiate an object. It’s used to define properties and initialize. An object is sometimes known as an instance of a particular class, so it's properties are sometimes called instance variables
 
-**Non-coding Activity:** Finished [Black Bullet](https://en.wikipedia.org/wiki/Black_Bullet), it was 13 episodes long. In my opinion, I'll rate it a 7.5/10, it has the amazing anime hope ingredient. We also see how the several characters deal with loss, and good character development. Watched Alpha too, it was great. Who says you can't make a great movie with few casts?
+**Non-coding Activity:** Finished [Black Bullet](https://en.wikipedia.org/wiki/Black_Bullet), it was 13 episodes long. In my opinion, I'll rate it a 7.5/10, it has the amazing anime hope ingredient. We also see how the several characters deal with loss, and good character development. Watched [Alpha](https://en.wikipedia.org/wiki/Alpha_(2018_film)) too, it was great. Who says you can't make a great movie with few casts?
+
+
+### Day 10: July 23, 2020
+
+**Today's Progress:** Now I know what lateinit really works, I've seen and used it in some Android projects. Also understood more on classes, the data classes I've used before are more clearer to me. Worked with getters and setters and why it's useful.
+
+**Thoughts:** Initializer blocks are executed when the object is initialized, immediately after the constructor is called, and they’re prefixed with the init keyword. Taking it slowly to understand this Chapter more better.
+
+**Non-coding Activity:** I honestly don't know how time flew past me, didn't get to do much. Started the movie [Crawl](https://en.wikipedia.org/wiki/Crawl_(2019_film))
