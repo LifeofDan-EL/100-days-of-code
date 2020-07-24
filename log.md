@@ -104,3 +104,12 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 **Thoughts:** Initializer blocks are executed when the object is initialized, immediately after the constructor is called, and they’re prefixed with the init keyword. Taking it slowly to understand this Chapter more better.
 
 **Non-coding Activity:** I honestly don't know how time flew past me, didn't get to do much. Started the movie [Crawl](https://en.wikipedia.org/wiki/Crawl_(2019_film))
+
+
+### Day 11: July 24, 2020
+
+**Today's Progress:** Finished Chapter 4, Classes and Objects: A Bit of Class. Did more [practical exercises](https://github.com/LifeofDan-EL/Hello_Kotlin/blob/master/src/HeadFirst/Dogs.kt) on the topic. 
+
+**Thoughts:** The pool puzzle on this exercise was tough for me. I've been advise to rarer used getters and setters so as not to run into compilation errors. 
+
+**Non-coding Activity:** Finished [Crawl](https://en.wikipedia.org/wiki/Crawl_(2019_film)), for was it's worth, I'll give it a 6.5/10. It's really not great but it's above average. Oh finally finished season one of the Manhwa [Solo Leveling](https://solo-leveling.fandom.com/wiki/Solo_Leveling), it was maaaaaadddddddd. Mehn, haven't enjoyed reading something like this in a long while. I won't spoil t for you but trust me, you will fall in love with it. Concidentally the second season was just announced a week ago. Started [Injustice 2](https://en.wikipedia.org/wiki/Injustice_2_(comics)), read [Injustice: Gods Among Us (comics)](https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us_(comics)) a long time ago, enjoyed it too. 
