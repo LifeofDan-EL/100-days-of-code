@@ -122,3 +122,12 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 **Thoughts:** A superclass contains common properties and functions that are inherited by one or more subclasses.A subclass can include extra properties and functions, and can override the things that it inherits.
 
 **Non-coding Activity:** Actually today I had an issue with my Linux Mint OS. Ran into boot loop error(I've had it before), I had to get a USB Stick and used Gparted to increase my filesystem memory size.
+
+
+### Day 13: July 26, 2020
+
+**Today's Progress:** Learnt how to effectively design an inheritance tree for classes. How to make a subclass inherit a superclass and how to tweak the functions in the superclass to be a bit different in the subclass. Solved some [Hyperskill problems](https://hyperskill.org/join/4db19914). 
+
+**Thoughts:** When designing a class hierarchy, apply the *IS-A* test, which is simply, "Does it make sense to say type X IS-A type Y?" There is also a *HAS-A* test, "Does it make sense to say type X HAS-A Y?" 
+
+**Non-coding Activity:** I watched [Hustlers](https://en.wikipedia.org/wiki/Hustlers_(film)), it was enjoyable, enjoyed Jennifer Lopez's acting skills. Finished Season 2 of [Castlevania](https://en.wikipedia.org/wiki/Castlevania_(TV_series)) 
