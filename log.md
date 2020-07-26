@@ -113,3 +113,12 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 **Thoughts:** The pool puzzle on this exercise was tough for me. I've been advise to rarer used getters and setters so as not to run into compilation errors. 
 
 **Non-coding Activity:** Finished [Crawl](https://en.wikipedia.org/wiki/Crawl_(2019_film)), for was it's worth, I'll give it a 6.5/10. It's really not great but it's above average. Oh finally finished season one of the Manhwa [Solo Leveling](https://solo-leveling.fandom.com/wiki/Solo_Leveling), it was maaaaaadddddddd. Mehn, haven't enjoyed reading something like this in a long while. I won't spoil t for you but trust me, you will fall in love with it. Concidentally the second season was just announced a week ago. Started [Injustice 2](https://en.wikipedia.org/wiki/Injustice_2_(comics)), read [Injustice: Gods Among Us (comics)](https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us_(comics)) a long time ago, enjoyed it too. 
+
+
+### Day 12: July 25, 2020
+
+**Today's Progress:** Started Chapter 5, Subclasses and Superclasses: Using Your Inheritance.  Looked at superclass and subclass. Didn't do much practical work due to the laptop issue I had.
+
+**Thoughts:** A superclass contains common properties and functions that are inherited by one or more subclasses.A subclass can include extra properties and functions, and can override the things that it inherits.
+
+**Non-coding Activity:** Actually today I had an issue with my Linux Mint OS. Ran into boot loop error(I've had it before), I had to get a USB Stick and used Gparted to increase my filesystem memory size.
