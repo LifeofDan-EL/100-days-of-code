@@ -135,7 +135,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 14: July 27, 2020
 
-**Today's Progress:** Finished Chapter 5, Subclasses and Superclasses: Using Your Inheritance.Inheritance looks tricky from outside but I guess with time I'll get better at it. Worked on [this](https://github.com/LifeofDan-EL/Hello_Kotlin/blob/master/src/HeadFirst/Animals.kt).
+**Today's Progress:** Finished Chapter 5, Subclasses and Superclasses: Using Your Inheritance. Inheritance looks tricky from outside but I guess with time I'll get better at it. Worked on [this](https://github.com/LifeofDan-EL/Hello_Kotlin/blob/master/src/HeadFirst/Animals.kt).
 
 **Thoughts:** Polymorphism is the ability to use any subtype object in place of it's supertype. As different subclasses can have different implementations of the same function, it allows each object to respond to function calls in the way that’s most appropriate for each object. The IS-A relationship works just one way.
 
