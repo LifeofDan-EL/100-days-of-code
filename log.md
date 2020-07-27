@@ -131,3 +131,12 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 **Thoughts:** When designing a class hierarchy, apply the *IS-A* test, which is simply, "Does it make sense to say type X IS-A type Y?" There is also a *HAS-A* test, "Does it make sense to say type X HAS-A Y?" 
 
 **Non-coding Activity:** I watched [Hustlers](https://en.wikipedia.org/wiki/Hustlers_(film)), it was enjoyable, enjoyed Jennifer Lopez's acting skills. Finished Season 2 of [Castlevania](https://en.wikipedia.org/wiki/Castlevania_(TV_series)) 
+
+
+### Day 14: July 27, 2020
+
+**Today's Progress:** Finished Chapter 5, Subclasses and Superclasses: Using Your Inheritance.Inheritance looks tricky from outside but I guess with time I'll get better at it. Worked on [this](https://github.com/LifeofDan-EL/Hello_Kotlin/blob/master/src/HeadFirst/Animals.kt).
+
+**Thoughts:** Polymorphism is the ability to use any subtype object in place of it's supertype. As different subclasses can have different implementations of the same function, it allows each object to respond to function calls in the way that’s most appropriate for each object. The IS-A relationship works just one way.
+
+**Non-coding Activity:** Binge watched Season 3 of [Castlevania](https://en.wikipedia.org/wiki/Castlevania_(TV_series)), didn't finish it though. Spent most of the time discussing, debating and arguing on Whatsapp.
