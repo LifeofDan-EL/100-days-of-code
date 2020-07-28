@@ -140,3 +140,12 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 **Thoughts:** Polymorphism is the ability to use any subtype object in place of it's supertype. As different subclasses can have different implementations of the same function, it allows each object to respond to function calls in the way that’s most appropriate for each object. The IS-A relationship works just one way.
 
 **Non-coding Activity:** Binge watched Season 3 of [Castlevania](https://en.wikipedia.org/wiki/Castlevania_(TV_series)), didn't finish it though. Spent most of the time discussing, debating and arguing on Whatsapp.
+
+
+### Day 15: July 28, 2020
+
+**Today's Progress:** Started Chapter 6, Abstract Classes and Interfaces: Serious Polymorphism and as the name suggests, some of the terms used are serious. Taking it bit by bit. 
+
+**Thoughts:** So if I don't want to make objects out of a class, the abstract keyword solves that. This is the part where the words appear as mumbo jumbo but with wore practical usage it will et clearer. I should spend more time in the day working on this though, these late night reading, I need more time.
+
+**Non-coding Activity:** Continued watching  Season 3 of [Castlevania](https://en.wikipedia.org/wiki/Castlevania_(TV_series)) Whatsapp keeps taking me away from side activities. Reconnected with an old friend Iphey from 2017, conversations with her are cool. There's this girl I really really like, been asking her out since March. I've know her over 5 years now but the excuses she gives and all don too much. It's just the lord Future in me that's stopping me from being a Simp. I've decided to dead the feelings, I've lost my focus, time to regain it.
