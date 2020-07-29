@@ -149,3 +149,21 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 **Thoughts:** So if I don't want to make objects out of a class, the abstract keyword solves that. This is the part where the words appear as mumbo jumbo but with wore practical usage it will et clearer. I should spend more time in the day working on this though, these late night reading, I need more time.
 
 **Non-coding Activity:** Continued watching  Season 3 of [Castlevania](https://en.wikipedia.org/wiki/Castlevania_(TV_series)) Whatsapp keeps taking me away from side activities. Reconnected with an old friend Iphey from 2017, conversations with her are cool. There's this girl I really really like, been asking her out since March. I've know her over 5 years now but the excuses she gives and all don too much. It's just the lord Future in me that's stopping me from being a Simp. I've decided to dead the feelings, I've lost my focus, time to regain it.
+
+
+### Day 16: July 29, 2020
+
+**Today's Progress:** Looked at how to work with interfaces. Worked on some [Hyperskill](https://hyperskill.org/join/4db19914) questions. Learnt, "Roses are red, Violets are blue, Inherit from one, But implement two."
+
+**Thoughts:** Well, fortunately there's a subtopic that handles when to make a class, subclass, an abstract class or an interface
+
+**Non-coding Activity:** For the first time since I came back home. I pushed myself outside to go see someone. The experience wasn't funny, ended up trekking a long distance because I couldn't get a cab. There isn't much change with the world outside. Finally finished Season 3 of [Castlevania](https://en.wikipedia.org/wiki/Castlevania_(TV_series)). The season finale was great, the series is a solid one. Started watching [John Tucker Must Die](https://en.wikipedia.org/wiki/John_Tucker_Must_Die)
+
+
+### Day 17: July 30, 2020
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Non-coding Activity:**
