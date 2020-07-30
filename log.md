@@ -162,6 +162,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 17: July 30, 2020
 
+**Today's Progress:** Went through some of the curriculum topics in [Hyperskill](https://hyperskill.org/join/4db19914), solved some problems. 
+
+**Thoughts:** The problem of the day exercise was fun. A solution came to my mind and I decided to run it and it passed the test successfully.
+
+**Non-coding Activity:** Played about four missions in [Metal Gear Solid V: The Phantom Pain](https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain), approaching the completion of the main missions. Apparently today I was bombarded with lots of chores, ended up not too free at night.
+
+
+### Day 18: July 31, 2020
+
 **Today's Progress:**
 
 **Thoughts:** 
