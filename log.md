@@ -171,6 +171,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 18: July 31, 2020
 
+**Today's Progress:** Finished Chapter 6, Abstract Classes and Interfaces: Serious Polymorphism. The exercises made the whole interfaces, abstract classes etc. a bit more clearer. Worked on [my profile's readme](https://github.com/LifeofDan-EL/LifeofDan-EL), with the aid of [this tool](https://github.com/arturssmirnovs/github-profile-readme-generator).
+
+**Thoughts:** Honestly most of the theory in this chapter are still hazy and all but I'll try to understand it better with time.
+
+**Non-coding Activity:** Finally finished [Injustice 2 Comic](https://en.wikipedia.org/wiki/Injustice_2_(comics)) it was an amazing read, as usual from DC. Started [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock_(comics)). I am thinking of starting workouts from tomorrow, I hae to keep fit.
+
+
+### Day 19: August 1, 2020
+
 **Today's Progress:**
 
 **Thoughts:** 
