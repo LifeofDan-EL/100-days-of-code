@@ -180,6 +180,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 19: August 1, 2020
 
+**Today's Progress:** Actually didn't do much, didn't open my [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/) book. In my defense, today is Saturday and it's weekend. To not waste the day entirely, went through [HyperSkill](https://hyperskill.org/join/4db19914) and solved few questions.
+
+**Thoughts:** Saturdays are for chilling, it's weekend ni.
+
+**Non-coding Activity:** Well today I started [Btoom](https://en.wikipedia.org/wiki/Btooom!), finished 9 episodes already. So I finished the Chapter one of [Metal Gear Solid V: The Phantom Pain](https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain), which is 30 missions long. It unlocked the Chapter two.
+
+
+### Day 20: August 2, 2020
+
 **Today's Progress:**
 
 **Thoughts:** 
