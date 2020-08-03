@@ -180,7 +180,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 19: August 1, 2020
 
-**Today's Progress:** Actually didn't do much, didn't open my [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/) book. In my defense, today is Saturday and it's weekend. To not waste the day entirely, went through [HyperSkill](https://hyperskill.org/join/4db19914) and solved few questions.
+**Today's Progress:** Actually didn't do much, didn't open my [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/) book. In my defence, today is Saturday and it's weekend. To not waste the day entirely, went through [HyperSkill](https://hyperskill.org/join/4db19914) and solved a few questions.
 
 **Thoughts:** Saturdays are for chilling, it's weekend ni.
 
@@ -188,6 +188,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 20: August 2, 2020
+
+**Today's Progress:** Headed over to [HyperSkill](https://hyperskill.org/join/4db19914). Looked at Repeating blocks theory there, when I saw [this](assets/countPositive.png) problem and [this](assets/maximumElement.png), I was like, how would I do this? Told myself to try, found out it's just for me to calm down and actually think of possible solutions.
+
+**Thoughts:** In as much as I would love to rush and start building amazing stuffs, I recall why I started this journey. To get my core basics very good, so far I've improving.
+
+**Non-coding Activity:** Started my August fitness journey, it actually wasn't painful as it was when I started my April's version. So I guess my body is getting used to the exercise. Watched a movie, [Long Shot](https://en.wikipedia.org/wiki/Long_Shot_(2019_film)) I haven't had so much laugh in a movie for a very long time. It's a solid 9/10 for me, enjoyed it totally. Done with [Btoom](https://en.wikipedia.org/wiki/Btooom!), apparently it was supposed to have a season two, judging from the ending. Played  [Metal Gear Solid V: The Phantom Pain](https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain) a couple of hours.
+
+
+### Day 21: August 3, 2020
 
 **Today's Progress:**
 
