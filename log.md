@@ -198,6 +198,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 21: August 3, 2020
 
+**Today's Progress:** Started Chapter 7, Data Classes : Dealing with Data. Apparently there's a superclass classes automatically inherit from called Any class. This Any class defines several functions that are inherited y every class.
+
+**Thoughts:** I have previously worked with a data class in Android, had a little issue understanding how to structure it properly.
+
+**Non-coding Activity:** Today was a bit hectic, wet out to assist my younger sister with stuff, ended up tired 
+
+
+### Day 22: August 4, 2020
+
 **Today's Progress:**
 
 **Thoughts:** 
