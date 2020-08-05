@@ -217,6 +217,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 23: August 5, 2020
 
+**Today's Progress:** Finished chapter 7, Data Classes: Dealing with Data. Apparently, it's recommended you declare the variables using val. If you want to make changes, just declare a new variable and use the copy() function. Made it halfway through the book, and I am happy about it.
+
+**Thoughts:** AS usual, it's to understand the basics and get familiar with terms. The book is great.
+
+**Non-coding Activity:** Spent today typing 16 scenes of the movie script. Finished the initial 26 scenes I got. Received the remaining 38 scenes and I have to deliver on friday. Today is a Wednesday.
+
+
+### Day 24: August 6, 2020
+
 **Today's Progress:**
 
 **Thoughts:** 
