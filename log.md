@@ -198,7 +198,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 21: August 3, 2020
 
-**Today's Progress:** Started Chapter 7, Data Classes : Dealing with Data. Apparently there's a superclass classes automatically inherit from called Any class. This Any class defines several functions that are inherited y every class.
+**Today's Progress:** Started Chapter 7, Data Classes: Dealing with Data. Apparently, there's a superclass that all classes automatically inherit from called Any class. This, Any class defines several functions that are inherited by every class. Slept off so my update is a bit late.
 
 **Thoughts:** I have previously worked with a data class in Android, had a little issue understanding how to structure it properly.
 
@@ -206,6 +206,16 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 22: August 4, 2020
+
+**Today's Progress:** Still on data class, in it, how some functions work are overrode behind the scenes e.g. equals, hashCode and toString. Looked at destructuring of data objects and how == and === works in data classes. Today's problem of the day on [Hyperskill](https://hyperskill.org/join/4db19914), was to find the reverse of a [three digit number](assets/reversed3digit.png). 
+
+**Thoughts:** I tried using listOf, ArrayOf and invoking the reversed(), asReversed() functions but no show. In the end Mathematics solved it, posted my solution and went to check other's solution. Saw a guy that made the int a string with toString(), reversed it then turned it back to an Int. One other guy solved it in a one liner, "fun main() = println(readLine()!!.reversed())". There are levels to this.
+
+**Non-coding Activity:** Workout in the morning, my fitness journey is going well. Got a task my an uncle of mine, I have to help him type the movie script he wrote. It's actually not an easy work, didn't have time to do other stuff.
+
+
+
+### Day 23: August 5, 2020
 
 **Today's Progress:**
 
