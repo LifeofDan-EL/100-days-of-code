@@ -226,6 +226,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 24: August 6, 2020
 
+**Today's Progress:** Started Chapter 8, Nulls and Exceptions: Safe and sound. Kt was designed with code-safety at heart, thus it has various ways to handle nullable types to prevent NullPointerException (experienced this in java at times). Enjoyed solving this [hyper skill problem](assets/divisblerange.png).
+
+**Thoughts:** I am getting better at this logical solution of a thing. Hopefully when i start looking at data structures in kotlin, I won't feel intimated and scared.
+
+**Non-coding Activity:** Worked out today, it was nice, i need my body toned abeg. Finally finished the movie script I was typing. Typed 38 scenes today, was faster because my sister was reading the script for me while I typed. Looking to go swimming tomorrow though, I miss it.
+
+
+### Day 25: August 7, 2020
+
 **Today's Progress:**
 
 **Thoughts:** 
