@@ -235,7 +235,16 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 25: August 7, 2020
 
-**Today's Progress:**
+**Today's Progress:** Looking as safe calls, learnt what '!', '?', '!!' and the not famous Elvis operator '?:' does. Also got to understand the general idea behind exception handling.
+
+**Thoughts:** The pool puzzle exercise was a bit confusing for me.
+
+**Non-coding Activity:** Read some chapters of [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)) didn't get to see it in the anime then, although they are plans to release one soon.
+
+
+### Day 26: August 8, 2020
+
+**Today's Progress:** 
 
 **Thoughts:** 
 
