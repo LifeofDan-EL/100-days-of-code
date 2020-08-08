@@ -244,6 +244,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 26: August 8, 2020
 
+**Today's Progress:** Today I decided to take it slow since it's weekend, spent my time solving [Hyperskill problems](https://hyperskill.org/join/4db19914) and looking at few topics. Also was going through [awesome stuff repository](https://github.com/sindresorhus/awesome).
+
+**Thoughts:** I am looking for some open source projects that are not mine to contribute to. Spoke with a friend and we are looking at porting a [particular project](https://github.com/dancrux/Med-Calculation-Kit) from java to kotlin.
+
+**Non-coding Activity:** Relaxed, spent time on WhatsApp. Apparently movies don't appeal to me that much again, especially the horror genre. Took me a while before I started [SweetHeart](https://en.wikipedia.org/wiki/Sweetheart_(2019_film)), personally it's a 6/10 for me, nothing great in it. Just an average movie with beautiful visuals.
+
+
+### Day 27: August 9, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
