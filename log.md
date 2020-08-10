@@ -253,7 +253,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 27: August 9, 2020
 
-**Today's Progress:** Finished Chapter 8, Nulls and Exceptions: Safe and sound. Most of the stuff are clear some are a bit shaky in my head.
+**Today's Progress:** Finished Chapter 8, Nulls and Exceptions: Safe and sound. Most stuff are clear some are a bit shaky in my head.
 
 **Thoughts:** The Code Magnet here was a bit not clear to me. Apparently I don't full understand manipulating
 
@@ -261,6 +261,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 28: August 10, 2020
+
+**Today's Progress:** Should have started Chapter 9 but got carried away by social media. Ended up just going through [Hyperskill](https://hyperskill.org/join/4db19914), solved some questions which I was scared of one earlier.
+
+**Thoughts:** Some challenges appear to be difficult but you just have to be calm and think of something to do.
+
+**Non-coding Activity:** Should have continued Bleach but I didn't. Saw this mad flash deal on Aliexpress for the KZ ZSN Pro, looked at my account balance, got discouraged ended up window shopping online. Hopefully tomorrow I stay offline for a while and get to cover Bleach a good amount.
+
+
+### Day 29: August 11, 2020
 
 **Today's Progress:** 
 
