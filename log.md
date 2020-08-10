@@ -244,7 +244,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 26: August 8, 2020
 
-**Today's Progress:** Today I decided to take it slow since it's weekend, spent my time solving [Hyperskill problems](https://hyperskill.org/join/4db19914) and looking at few topics. Also was going through [awesome stuff repository](https://github.com/sindresorhus/awesome).
+**Today's Progress:** Today I decided to take it slow since it's weekend, spent my time solving [Hyperskill problems](https://hyperskill.org/join/4db19914) and looking at a few topics. Also was going through [awesome stuff repository](https://github.com/sindresorhus/awesome).
 
 **Thoughts:** I am looking for some open source projects that are not mine to contribute to. Spoke with a friend and we are looking at porting a [particular project](https://github.com/dancrux/Med-Calculation-Kit) from java to kotlin.
 
@@ -252,6 +252,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 27: August 9, 2020
+
+**Today's Progress:** Finished Chapter 8, Nulls and Exceptions: Safe and sound. Most of the stuff are clear some are a bit shaky in my head.
+
+**Thoughts:** The Code Magnet here was a bit not clear to me. Apparently I don't full understand manipulating
+
+**Non-coding Activity:** Went to church for the first time since this lockdown. I really missed all the people in the Gladiator's Teens Church. It was an amazing service. Read some chapters of [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)), saw the Captain's Commander's, [Genryūsai Shigekuni Yamamoto](https://bleach.fandom.com/wiki/Genry%C5%ABsai_Shigekuni_Yamamoto) [bankai](https://bleach.fandom.com/wiki/Zanka_no_Tachi,_Nishi:_Zanjitsu_Gokui). Coordinated a zoom meeting as a gig today. Got paid too, which came as a surprise.
+
+
+### Day 28: August 10, 2020
 
 **Today's Progress:** 
 
