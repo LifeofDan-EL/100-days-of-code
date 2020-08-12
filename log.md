@@ -244,7 +244,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 26: August 8, 2020
 
-**Today's Progress:** Today I decided to take it slow since it's weekend, spent my time solving [Hyperskill problems](https://hyperskill.org/join/4db19914) and looking at a few topics. Also was going through [awesome stuff repository](https://github.com/sindresorhus/awesome).
+**Today's Progress:** Today I decided to take it slow since it's weekend, spent my time solving [Hyperskill problems](https://hyperskill.org/join/4db19914) and looking at a few topics. Also was going through [awesome stuff repository](https://github.com/sindresorhus/awesome).Made a [PR](https://github.com/KotlinBy/awesome-kotlin/pull/573) to [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 
 **Thoughts:** I am looking for some open source projects that are not mine to contribute to. Spoke with a friend and we are looking at porting a [particular project](https://github.com/dancrux/Med-Calculation-Kit) from java to kotlin.
 
@@ -262,7 +262,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 28: August 10, 2020
 
-**Today's Progress:** Should have started Chapter 9 but got carried away by social media. Ended up just going through [Hyperskill](https://hyperskill.org/join/4db19914), solved some questions which I was scared of one earlier.
+**Today's Progress:** Should have started Chapter 9 but got carried away by social media. Ended up just going through [Hyperskill](https://hyperskill.org/join/4db19914), solved some questions which I was scared of one earlier. Made a [PR](https://github.com/unicodeveloper/tech-hubs/pull/71) to [Tech Hubs in Nigeria](https://github.com/unicodeveloper/tech-hubs/pull/71 )
 
 **Thoughts:** Some challenges appear to be difficult but you just have to be calm and think of something to do.
 
@@ -270,6 +270,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 29: August 11, 2020
+
+**Today's Progress:** Finally started Chapter 8, Collections: Get Organized. Got  to see that there are 3 types of collections that gives more flexibility and control over how to store and manage groups objects. Basically List, Set and Map. I actually have been using list for a while, especially when I want to use a function and it's not allowed on the current object type. Got the docs link for the [Standard Kotlin Library](https://kotlinlang.org/api/latest/jvm/stdlib/). Since Arrays can't be stopped from updating and you can't change an array size(although you copy the original and make a new one but the size of the original array remains the same).
+
+**Thoughts:** At times I press dot at the end of a variable and see what kind of function I an call unto it. Today I did something, typed return r[r.lastIndex] after I made r reference the toString of a variable. Found out later I can just call .last() to the .toString()
+
+**Non-coding Activity:** Read lots chapters of [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)), found out about [Ichigo_Kurosaki](https://bleach.fandom.com/wiki/Ichigo_Kurosaki)'s [mother](https://bleach.fandom.com/wiki/Masaki_Kurosaki) and how he iis part Quincy and part Shinigami.
+
+
+### Day 30: August 12, 2020
 
 **Today's Progress:** 
 
