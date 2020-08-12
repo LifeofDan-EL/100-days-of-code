@@ -280,6 +280,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 30: August 12, 2020
 
+**Today's Progress:** So I spent much of my time today on this [issue](https://github.com/layer5io/meshery/issues/1385) on [Meshery](https://github.com/layer5io/meshery), through it I got to understand how best to resize an image in Markdown. ALso learnt about [Developer Certificate of Origin](https://beeware.org/contributing/how/dco/what/) signing before I made my [first pull](https://github.com/layer5io/meshery/pull/1386) there to add the logos to the asset folders. Some fixes were requested and after working them out, made my [final pull](https://github.com/layer5io/meshery/pull/1390). Also made my first Google Open Source Contribution to [dart site](https://github.com/dart-lang/site-www), the issue was [this](https://github.com/dart-lang/site-www/issues/2572), made my [PR](https://github.com/dart-lang/site-www/pull/2573) and it got merged.
+
+**Thoughts:** Contributing to Open Source projects is actually thrilling and all. Although I only got to work on docs but I have always been scared of contributing to huge projects. Will try my best to become better and get to contribute more.
+
+**Non-coding Activity:** Read some chapters of [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)), was supposed to go swimming today, had Ingressive4Good interview to become a campus ambassdor and potential lead. After the interview didn't have much time left, so I rescheduled to Friday.
+
+
+### Day 31: August 13, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
