@@ -289,6 +289,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 31: August 13, 2020
 
+**Today's Progress:** Went through [Jetbrains Academy- Hyperskill](https://hyperskill.org/join/4db19914), actually looking at problems that involve calculations with float and doubles and finding out how to calculate them accurately.
+
+**Thoughts:** Apparently you could solve a calculation and proudly get wrong answer.
+
+**Non-coding Activity:** I joined [Layer5 Community](https://github.com/layer5io/) today, got onboarded and I'm till going through the resources there. The PR I made concerning this [issue](https://github.com/layer5io/meshery/issues/1385), actually inspired someone to join the community. 
+
+
+### Day 32: August 14, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
