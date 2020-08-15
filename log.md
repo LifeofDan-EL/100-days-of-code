@@ -307,6 +307,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 33: August 15, 2020
 
+**Today's Progress:** Spent quite a lot of time looking at different organizations that participated in [GSOC](https://summerofcode.withgoogle.com/) 2020. I can't be caught off guard next year again like this year. Spent a lot of time on Hyperskill too, trying to finish some topics and problems so I can catch up with the topics related to where I am in the book I have.
+
+**Thoughts:** As i thought earlier, the earlier you get used to an organization the better it is for you to familiarize with their codebase and contribute effectively.
+
+**Non-coding Activity:** Didn't do any non coding activity, spent over 10 hours on this labour, carefully searching the internet. Ohhhh, today is my father's birthday, a bigggg happy birthday to him.
+
+
+### Day 34: August 16, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
