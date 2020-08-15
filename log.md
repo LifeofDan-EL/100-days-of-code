@@ -298,6 +298,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 32: August 14, 2020
 
+**Today's Progress:** I missed out on today's own, due to some unforeseen circumstances I slept off suddenly at night and I wasn't able to do something earlier because I slept off.
+
+**Thoughts:** No thoughts.
+
+**Non-coding Activity:** I actually went swimming, haven't been in the water since March, so I went to LasMall resort center, their pool is like the biggest in Port-Harcourt.
+
+
+### Day 33: August 15, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
