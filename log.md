@@ -32,7 +32,8 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 **Today's Progress:** Started with [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/), I guess the name suggested it and also the fact lots of android people recommend Head First Java. My IntelliJ IDEA Ultimate license expired recently so I had to switch to VS Code. Set up Kotlin to work on my terminal and installed the extensions.
 
-**Thoughts:** Will print the 'bend your brain into submission' part of the book tomorrow and paste on my wall. Didn't do much, Procrastination got me today. The [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/) looks promising, I am going to finish it in the fast and effective way.
+**Thoughts:** Will print the 'bend your brain into submission' part of the book tomorrow and paste on my wall. Didn't do much, Procrastination got me today. The [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/
+9781491996683/) looks promising, I am going to finish it in the fast and effective way.
 
 
 ### Day 2: July 15, 2020 
@@ -315,6 +316,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 34: August 16, 2020
+
+**Today's Progress:** Still working on calculations using BigInteger,  getting better grasp of it. 
+
+**Thoughts:** My eyes are paining me, I should try as much as possible to give updates very early. Let me go to bed.
+
+**Non-coding Activity:** Today was Sunday, went for service. Had provincial workers meeting, it was fun seeing everyone after so long. Watched to [Lego DC: Shazam!: Magic and Monsters](https://en.wikipedia.org/wiki/Lego_DC:_Shazam!:_Magic_and_Monsters).
+
+
+### Day 35 August 17, 2020
 
 **Today's Progress:** 
 
