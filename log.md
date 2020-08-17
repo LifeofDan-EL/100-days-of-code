@@ -317,7 +317,8 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 34: August 16, 2020
 
-**Today's Progress:** Still working on calculations using BigInteger,  getting better grasp of it. 
+
+**Today's Progress:** Still working on calculations using BigInteger,  getting a better grasp of it. 
 
 **Thoughts:** My eyes are paining me, I should try as much as possible to give updates very early. Let me go to bed.
 
@@ -325,6 +326,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 35 August 17, 2020
+
+**Today's Progress:**  Continued on [Jetbrains Academy- Hyperskill](https://hyperskill.org/join/4db19914), got stuck on a problem which was to find the [L.C.M of two numbers](assets/lcm.png). Apparently when working with BigInteger, you can't work with normal 0. Found another way to go about it and I finished the module then took the module on String Templates.
+
+**Thoughts:** Working with BigInteger is something else though, normal calculations don't really work due to type mismatch.
+
+**Non-coding Activity:** Read some chapters of [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)), didn't read much because I was mostly online. Did I get to let you know that I got accepted as the Lead for [Ingressive For Good](https://ingressive.org/) circle in my University? Well I did and I am so excited about it.
+
+
+### Day 36 August 18, 2020
 
 **Today's Progress:** 
 
