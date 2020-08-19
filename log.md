@@ -336,6 +336,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 36 August 18, 2020
 
+**Today's Progress:** Looked at exceptions and taming exceptions. The [problem of the day](assets/digitsOrNot.png) was cool too, solved a problem in 6 lines when the I was seeing solutions with 15 lines and more. I feel proud.
+
+**Thoughts:** Nothing much, there is this problem that works on my IDE but is failing online.
+
+**Non-coding Activity:** Read few chapters of [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)), the battles are just getting more epic.
+
+
+### Day 37 August 19, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
