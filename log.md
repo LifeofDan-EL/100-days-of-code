@@ -336,7 +336,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 36 August 18, 2020
 
-**Today's Progress:** Looked at exceptions and taming exceptions. The [problem of the day](assets/digitsOrNot.png) was cool too, solved a problem in 6 lines when the I was seeing solutions with 15 lines and more. I feel proud.
+**Today's Progress:** Looked at exceptions and taming exceptions. The [problem of the day](assets/digitsOrNot.png) was cool tho, solved a problem in 6 lines when I was seeing solutions with 15 lines and more. I feel proud.
 
 **Thoughts:** Nothing much, there is this problem that works on my IDE but is failing online.
 
@@ -344,6 +344,16 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 37 August 19, 2020
+
+**Today's Progress:** Handled Null Safety problems on [Jetbrains Academy- Hyperskill](https://hyperskill.org/join/4db19914). I had to trick the test to pass some because the problem explanation wasn't really clear.
+
+**Thoughts:** So we kicked off invitations into our [Ingressive For Good](https://ingressive.org/) circle in my University.
+
+**Non-coding Activity:** Read few chapters of [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)), I have been getting sleep during the day so I end up staying awake at night for long.
+
+
+
+### Day 38 August 20, 2020
 
 **Today's Progress:** 
 
