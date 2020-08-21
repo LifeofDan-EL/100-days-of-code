@@ -352,8 +352,17 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 **Non-coding Activity:** Read few chapters of [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)), I have been getting sleep during the day so I end up staying awake at night for long.
 
 
-
 ### Day 38 August 20, 2020
+
+**Today's Progress:** Looked at Type System on [Jetbrains Academy- Hyperskill](https://hyperskill.org/join/4db19914). I knew there was a supertype called Any but I found out today that there's a Nothing type too, which is like the last type below on the hierarchy. Got stuck on a problem, will have to sleep and try it again later.
+
+
+**Thoughts:** I think my brain got overloaded, moreover I can't seem tto cut my late night habits.
+
+**Non-coding Activity:** I finally [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)) and it's easily the best arc in the whole Bleach manga. The fight scenes and techniques are something else. What a happy ending, Rukia and Renji ended up together, Ichigo and Inoue ended up together. Mehn, now I'm totally hyped for the anime adaptation next year. 
+
+
+### Day 39 August 21, 2020
 
 **Today's Progress:** 
 
