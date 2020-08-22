@@ -349,7 +349,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 **Thoughts:** So we kicked off invitations into our [Ingressive For Good](https://ingressive.org/) circle in my University.
 
-**Non-coding Activity:** Read few chapters of [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)), I have been getting sleep during the day so I end up staying awake at night for long.
+**Non-coding Activity:** Read few chapters of [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)), I have been getting sleep during the day so I end up staying awake at night for long. Due to my eyes disturbing me lately due to the long hours on my screen, I decided to get an anti glare glass soon.
 
 
 ### Day 38 August 20, 2020
@@ -359,10 +359,19 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 **Thoughts:** I think my brain got overloaded, moreover I can't seem tto cut my late night habits.
 
-**Non-coding Activity:** I finally [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)) and it's easily the best arc in the whole Bleach manga. The fight scenes and techniques are something else. What a happy ending, Rukia and Renji ended up together, Ichigo and Inoue ended up together. Mehn, now I'm totally hyped for the anime adaptation next year. 
+**Non-coding Activity:** I finally [Bleach's Thousand-Year Blood War arc](https://en.wikipedia.org/wiki/List_of_Bleach_chapters_(424%E2%80%93686)) and it's easily the best arc in the whole Bleach manga. The fight scenes and techniques are something else. What a happy ending, Rukia and Renji ended up together, Ichigo and Inoue ended up together. Mehn, now I'm totally hyped for the anime adaptation next year. Got this extension for my browser [Dark Reader](https://darkreader.org/) to help my eyesight.
 
 
 ### Day 39 August 21, 2020
+
+**Today's Progress:** Tried the problem I got stuck on yesterday, no way, asked for pointers and was asked to use a try and catch. It worked, solved the remaining Type System problems. Tech Twitter didn't allow me to do much today. Worked on an [issue](https://github.com/layer5io/meshery/issues/1435) for [Layer Community](https://layer5.io/).
+
+**Thoughts:** I think I have an issue when writing the logic for the return part to actually work. I'll have to work more on that.
+
+**Non-coding Activity:** Read some episodes of [One Piece](), the fact that Kaido cut Orochi with one swing shows you how bad Pirate alliances are. Heard about the [whole gist](https://twitter.com/remiljw/status/1296918140132229120) of the matter and honestly I am dumbfounded. Why would someone be that exploitive of people?
+
+
+### Day 40 August 22, 2020
 
 **Today's Progress:** 
 
