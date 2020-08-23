@@ -373,6 +373,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 40 August 22, 2020
 
+**Today's Progress:**  Looked at Arrays on Hyperskilll.
+
+**Thoughts:** Nothing much.
+
+**Non-coding Activity:** Spent long hours on errands.
+
+
+### Day 41 August 23, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
