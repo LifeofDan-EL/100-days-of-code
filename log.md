@@ -368,7 +368,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 **Thoughts:** I think I have an issue when writing the logic for the return part to actually work. I'll have to work more on that.
 
-**Non-coding Activity:** Read some episodes of [One Piece](), the fact that Kaido cut Orochi with one swing shows you how bad Pirate alliances are. Heard about the [whole gist](https://twitter.com/remiljw/status/1296918140132229120) of the matter and honestly I am dumbfounded. Why would someone be that exploitive of people?
+**Non-coding Activity:** Read some episodes of [One Piece](https://en.wikipedia.org/wiki/One_Piece), the fact that Kaido cut Orochi with one swing shows you how bad Pirate alliances are. Heard about the [whole gist](https://twitter.com/remiljw/status/1296918140132229120) of the matter and honestly I am dumbfounded. Why would someone be that exploitive of people?
 
 
 ### Day 40 August 22, 2020
@@ -382,8 +382,20 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 41 August 23, 2020
 
+**Today's Progress:**  Finished up the remaining problems on Array. Officially done with the segment of Data Types and Variables on [Hyperskill]((https://hyperskill.org/join/4db19914)), although I've looked into this some weeks back when I read it on [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/).
+
+
+**Thoughts:** Today was weekend so I had to rest and spoil myself small.
+
+**Non-coding Activity:** Played [Batman Arkham City](https://en.wikipedia.org/wiki/Batman:_Arkham_City) for  a long time. Looking to start [Tower of God](https://en.wikipedia.org/wiki/Tower_of_God).
+
+
+### Day 42 August 24, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
 
 **Non-coding Activity:**
+
+
