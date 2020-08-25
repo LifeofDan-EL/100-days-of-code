@@ -392,10 +392,20 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 42 August 24, 2020
 
+**Today's Progress:** Passed [this problem](assets/hasNext.png) I was running from for a while now and it's just 3 lines of code. Looked into Default Arguments under functions but most of the problems in this segment were not really clear. Spent more time than I should, currently failing a test for a problem and can't find out why yet.
+
+**Thoughts:** I have gotten the hang of default arguments but the problems here are really not focusing on the theory.
+
+**Non-coding Activity:** Finally opened my Twitter burner account, I finally can 'freely' rant. Played a bit of [Batman Arkham City](https://en.wikipedia.org/wiki/Batman:_Arkham_City) and spent time on Whatsapp. I really should stop the habit of entering Whatsapp arguments on group chats. Started my Coursera course on [Inspiring and Motivating Individuals by University of Michigan](https://www.coursera.org/learn/motivate-people-teams/home/welcome).
+
+
+### Day 43 August 25, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
 
 **Non-coding Activity:**
+
 
 
