@@ -401,11 +401,19 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 43 August 25, 2020
 
+**Today's Progress:**  Looked at Named Arguments, the problems are still unclear just like the Default arguments 
+
+**Thoughts:** I have a general idea of how Named Arguments works.
+
+**Non-coding Activity:** An old friend visted, we talked a lot about stuff and watched [17Again]() together. Played a bit of [Batman Arkham City](https://en.wikipedia.org/wiki/Batman:_Arkham_City) and almost at the final boss fight.
+
+
+### Day 44 August 26, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
 
 **Non-coding Activity:**
-
 
 
