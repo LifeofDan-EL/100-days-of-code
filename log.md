@@ -410,10 +410,17 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 44 August 26, 2020
 
+**Today's Progress:** Didn't do much, just looked at Strings Substrings. My sleeping cycle is messed up so at times I sleep off by just laying on the bed.
+
+**Thoughts:** The substring is funny sha but very useful for some case study. I feel my solving problem skills are reducing though. This night coding isn't really working for me, I end up sleeping at times if I don't sleep within the day.
+
+**Non-coding Activity:** Watched [A Bug's Life](https://en.wikipedia.org/wiki/A_Bug%27s_Life) and [Onward](https://en.wikipedia.org/wiki/Onward_(film)), enjoyed both. Still spent time on Whatsapp, I am looking towards not going online for long. Most likely limiting it to 2 hours like I used to.
+
+
+### Day 45 August 27, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
 
 **Non-coding Activity:**
-
-
