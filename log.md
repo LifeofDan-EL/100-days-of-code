@@ -419,6 +419,14 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 45 August 27, 2020
 
+**Today's Progress:** Today I went through The Math Standard Library. Did little problems involving mathematics, I enjoyed it. Didn't pass the two problems I had earlier on, will keep trying till I know the fault.
+
+**Thoughts:** Earlier on Kotlin had to entirely depend on Java's library but with time Kotlin launched it own.
+
+**Non-coding Activity:** I finally went for Data Capture for my Driver's license and I got captured. Was issued a temporary one that lasts for two months or so. DC is everything abeg, I watched [Superman: Man of Tomorrow](https://en.wikipedia.org/wiki/Superman:_Man_of_Tomorrow) and it was awesome, I expected such from them. Also started [Spies in Disguise](https://en.wikipedia.org/wiki/Spies_in_Disguise) but I haven't finish it yet. Watched few minutes of  my Coursera course [Inspiring and Motivating Individuals by University of Michigan](https://www.coursera.org/learn/motivate-people-teams/home/welcome). Finished [Batman Arkham City](https://en.wikipedia.org/wiki/Batman:_Arkham_City) main story, the boss fight with Clayface was shabby.
+
+### Day 46 August 28, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
