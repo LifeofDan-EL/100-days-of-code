@@ -427,6 +427,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 46 August 28, 2020
 
+**Today's Progress:** Solved the remaining problems under The Math Standard Library, then looked at External Resources. It's basically about how reading from other resources like Documentations, [Stackoverflow](https://stackoverflow.com/), [GeeksForGeeks](https://www.geeksforgeeks.org/) helps you become a better developer.
+
+**Thoughts:** [Stackoverflow](https://stackoverflow.com/) has been my saving grace. It literally the Bible for programmers.
+
+**Non-coding Activity:** Fortunately or unfortunately I actually slept for long in the afternoon, I guess my body is trying to get back lost sleep. The anti-glare glasses I bought from [her](https://twitter.com/Cheedera1) came through today but I was sleeping and woke up to lots of missed calls. Luckily te dispatch rider dropped it off at a shop close-by.
+
+
+### Day 47 August 29, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
