@@ -401,7 +401,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 43 August 25, 2020
 
-**Today's Progress:**  Looked at Named Arguments, the problems are still unclear just like the Default arguments 
+**Today's Progress:**  Looked at Named Arguments, the problems are still unclear just like the Default arguments.
 
 **Thoughts:** I have a general idea of how Named Arguments works.
 
@@ -435,6 +435,20 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 47 August 29, 2020
+
+**Today's Progress:** Didn't do anything, it was my big sister's birthday. Had to help out in running errands and also laid back and had mad fun.
+
+
+### Day 48 August 30, 2020
+
+**Today's Progress:** Looked at using for loops. Found out how to iterate through Strings, Arrays etc. Also how to convert a String to an Array of Chars and back and use of split() function well.
+
+**Thoughts:** Some stuffs aren't as hard as they seem, at times it's the question that's confusing.
+
+**Non-coding Activity:** Watched four episodes of [Code:Breaker](https://en.wikipedia.org/wiki/Code:Breaker).
+
+
+### Day 49 August 31, 2020
 
 **Today's Progress:** 
 
