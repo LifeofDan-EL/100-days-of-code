@@ -450,6 +450,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 49 August 31, 2020
 
+**Today's Progress:** Worked on problems involving String manipulation. You know that moment you hit a problem marked medium difficulty and to you it's hard? Met one again today. I'm stuck with finding a way to split the input into two equal parts.
+
+**Thoughts:** Funny enough something just entered my mind now, why bother to check if the sum is equal if they can't be split into two first?
+
+**Non-coding Activity:** Watched four episodes of [Code:Breaker](https://en.wikipedia.org/wiki/Code:Breaker). Onyeka my cousin came over to spend little holiday with me. I slept quite too much today.
+
+
+### Day 50 September 1, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
