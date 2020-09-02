@@ -459,6 +459,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 50 September 1, 2020
 
+**Today's Progress:** So it's like the forces of the universe are against me. Had a late-night online meeting and by the time I was through, I was pretty much tired and slept. I'm thinking of readjusting my schedule to do the challenge during afternoon hours. Only issue is the transformer in my area has been bad for over 3 months now.
+
+**Thoughts:** None
+
+**Non-coding Activity:** I finished [Code:Breaker](https://en.wikipedia.org/wiki/Code:Breaker). It was worth the watch, Hitomi wasn't really a bad person, he just wanted the world to treat people with abilities better but he did so through bad methods. It was supposed to have a continuation but unfortunately none till now.
+
+
+### Day 51 September 2, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
