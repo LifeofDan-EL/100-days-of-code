@@ -468,6 +468,14 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 51 September 2, 2020
 
+**Today's Progress:** Went through the Control Flow module, specifically the when statement. Solved the problems on it. I'm trying to solve [this problem](assets/luckynumber.png) and it seems like it's not working, will still keep trying though.
+
+**Thoughts:** There are times it's as if your code is not yielding results, this is one of them. I got an email for a technical test for a boot camp I applied for, I will not continue it because their curriculum for android development is in java and I am not doing.
+
+**Non-coding Activity:** I installed [Far Cry 3](https://en.wikipedia.org/wiki/Far_Cry_3) a while ago and played little today. Spent most of the time discussing online on Whatsapp, I'm slowly adjusting my schedule to avoid late night coding.
+
+### Day 52 September 3, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
