@@ -476,6 +476,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 52 September 3, 2020
 
+**Today's Progress:** That problem is not 'medium' difficulty abeg, spent over 3 hours looking for a working solution. I tried various methods and thought processes, it was either I got errors or the result wasn't correct. Finally got a ['working' solution](assets/fsolu.png) but it failed some tests, till I got [this](assets/ssolu.png) shorter and better one.
+
+**Thoughts:** This problem made me start rethinking my life choices and I remembered that coding isn't a bed of rose.
+
+**Non-coding Activity:** I went swimming my with Onyeka my boy and Favour my sister, it was fun. Met new people at the pool and actually had fun moments with them.
+
+
+### Day 53 September 4, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
