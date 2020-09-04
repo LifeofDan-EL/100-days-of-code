@@ -476,7 +476,7 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 52 September 3, 2020
 
-**Today's Progress:** That problem is not 'medium' difficulty abeg, spent over 3 hours looking for a working solution. I tried various methods and thought processes, it was either I got errors or the result wasn't correct. Finally got a ['working' solution](assets/fsolu.png) but it failed some tests, till I got [this](assets/ssolu.png) shorter and better one.
+**Today's Progress:** That problem is not 'medium' difficulty abeg, spent over 3 hours looking for a working solution. I tried various methods and thought processes, it was either I got errors or the result wasn't correct. Finally got a ['working' solution](assets/fsolu.png) but it failed some tests, till I got [this](assets/ssolu.png) shorter and better one.On a side note in my search for a suitable solution, I came across lots of codes and saw some nice things. Even got to use .slice for an array, used map too and saw other functions in action.
 
 **Thoughts:** This problem made me start rethinking my life choices and I remembered that coding isn't a bed of rose.
 
@@ -484,6 +484,14 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 
 ### Day 53 September 4, 2020
+
+**Today's Progress:** Been solving problems since and decided to start one of [their projects](https://github.com/LifeofDan-EL/Unit_Converter). Just started and didn't do much.
+
+**Thoughts:** No thoughts. I'm very sleepy so I have to sleep.
+
+**Non-coding Activity:** No extra activity.
+
+### Day 54 September 5, 2020
 
 **Today's Progress:** 
 
