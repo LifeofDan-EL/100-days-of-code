@@ -491,7 +491,16 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 **Non-coding Activity:** No extra activity.
 
+
 ### Day 54 September 5, 2020
+
+**Today's Progress:** I pretty much relaxed myself this Saturday. Was suppose to continue the [Unit Converter project](https://github.com/LifeofDan-EL/Unit_Converter) but lazied about. Looked at the concept of patterns, which is basically code design, design patterns and they sound like top level stuff, I'll get better at it though.
+
+**Thoughts:** You would think you know something and boom, a new thing comes up and you feel like you are not capable.
+
+**Non-coding Activity:** Spent most of the day trying to troubleshoot my cousin's laptop that got messed up from a windows update. Played [Far Cry 3](https://en.wikipedia.org/wiki/Far_Cry_3) for a long while as part of my relaxation.
+
+### Day 55 September 6, 2020
 
 **Today's Progress:** 
 
