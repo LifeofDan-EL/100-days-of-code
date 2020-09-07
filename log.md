@@ -502,6 +502,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 55 September 6, 2020
 
+**Today's Progress:** Got a reply to a hint I asked for a problem and used it to pass it. Finished External resources module. The [problem of the day](assets/sizeParts.png) was fun too, although I was reluctant to solve it as first.
+
+**Thoughts:**  The makers of [Far Cry 3](https://en.wikipedia.org/wiki/Far_Cry_3) outdid themselves though.
+
+**Non-coding Activity:** Today Erica of [Big Brother Naija](https://www.imdb.com/title/tt0843319/), a reality show got evicted. I posted about it and some stuff on my status and got dragged, o boy how I do love some good bants. Candance Owen [served it hot](https://www.thesun.co.uk/news/12600555/cardi-b-feuds-candace-owens-joe-biden-interview/) to Cardi B too, part of the reason I didn't do much.
+
+
+### Day 56 September 7, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
