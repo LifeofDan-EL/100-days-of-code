@@ -511,6 +511,14 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 56 September 7, 2020
 
+**Today's Progress:** Just solved the [problem of the day](assets/simple.png). I got to know this can be solved in Python and Js in less than 4 lines with the use of eval function. Well, Kotlin supports [the function](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.js/eval.html) only on kotlin.js.
+
+**Thoughts:** I am actually becoming better at this problem solving of a thing, me that used to fear algorithms.
+
+**Non-coding Activity:** Didn't sleep throughout the night and had to go out in the morning on an errand. Ended up sleeping in the morning till 4. Had a call with my Co-Lead about our I4G UNN Circle monthly event.
+
+### Day 57 September 8, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
