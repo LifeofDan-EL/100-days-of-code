@@ -525,7 +525,17 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 **Non-coding Activity:** Nothing much, just attended to my several other engagements, lots of stuff on my plates. I should stay off Whatsapp today though.
 
+
 ### Day 58 September 9, 2020
+
+**Today's Progress:** Looked at Immutability, got to hear of the [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) which I would take time to learn more about. Compared cases of when Mutable is needed or Immutable.
+
+**Thoughts:** Nothing much.
+
+**Non-coding Activity:** Helped my sister revamp her CV, started typing a new movie script. Was typing with my hands and got tired, tried using google voice typing, it works but not that accurate.
+
+
+### Day 59 September 10, 2020
 
 **Today's Progress:** 
 
