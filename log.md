@@ -519,6 +519,14 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 57 September 8, 2020
 
+**Today's Progress:** Tried out the new try-catch module under Exceptions that was published 11 days ago. I learnt you can put multiple catch blocks to handle several subtypes of Exceptions. It runs from top to bottom, so it's advisable to put the subtypes first before the general exception catch block.
+
+**Thoughts:** It was pretty much a breeze, I am cool with Exceptions.
+
+**Non-coding Activity:** Nothing much, just attended to my several other engagements, lots of stuff on my plates. I should stay off Whatsapp today though.
+
+### Day 58 September 9, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
