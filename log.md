@@ -545,7 +545,16 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 60 September 11, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Lol, how long as it been? I guess it's my two months anniversary. Looked at Data and Object Mapping. To be honest the whole concept is still not clear to me yet.
+
+**Thoughts:** I am happy with the way I've improved.
+
+**Non-coding Activity:** Did laundry with Onyeka today. Printed four copies of the Rumuije script I typed. Watched some episodes of [Daily Lives of Highschool Boys](https://en.wikipedia.org/wiki/Daily_Lives_of_High_School_Boys). Had a meeting call with few members of Developers' student club in my school. Planning I4G UNN event this month. Considering participating in black friday sales on Amazon this year, getting stuff for my workspace.
+
+
+### Day 61 September 12, 2020
+
+**Today's Progress:**  
 
 **Thoughts:** 
 
