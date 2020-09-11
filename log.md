@@ -537,6 +537,14 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 59 September 10, 2020
 
+**Today's Progress:** Had paperwork to do so didn't do much, just solved the  problem of the day. Completed the module, Integer in Action .
+
+**Thoughts:** No much challenge, just love how I am getting better at algorithms.
+
+**Non-coding Activity:** Did window shopping on Amazon, I really want to get some stuff to make my room look more comfortable to me. Stuff like LED strip lights, Anime posters, especially workspace desk stuff etc. Finished the script I was typing. 
+
+### Day 60 September 11, 2020
+
 **Today's Progress:** 
 
 **Thoughts:** 
