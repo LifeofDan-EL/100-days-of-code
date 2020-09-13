@@ -554,6 +554,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 61 September 12, 2020
 
+**Today's Progress:** Lately I decided to look at the Programming Essentials module of the Kotlin Developer Map on hyperskill. It's mostly focused on what actually happens behind the coding. Looked at Libraries today.
+
+**Thoughts:** I've been using libraries and they are cool, looking forward to making one myself.
+
+**Non-coding Activity:** Today was a Provincial program and I went to officiate. Left home in the morning and came back late in the evening. Almost done with, [Far Cry 3](https://en.wikipedia.org/wiki/Far_Cry_3) so Sam got killed by Hoyte, chaiii.
+
+
+### Day 62 September 13, 2020
+
 **Today's Progress:**  
 
 **Thoughts:** 
