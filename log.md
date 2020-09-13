@@ -563,6 +563,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 62 September 13, 2020
 
+**Today's Progress:**  Looked at Design Principles, which is the way to organize the code structure to achieve its primary goals. Got to learn about Design Principles like, Don't Repeat Yourself (DRY), You Ain't Gonna Need It (YAGNI), Keep It Simple, Stupid (KISS). They are quite funny acronyms to me.
+ 
+**Thoughts:**  Saw SOLID design principles, looked liked one FANG level stuff.
+
+**Non-coding Activity:** Completed [Far Cry 3](https://en.wikipedia.org/wiki/Far_Cry_3) today, played lots of the side missions but it's boring to me now, I guess I'll just uninstall. I really want to learn how to play NBA games.
+
+
+### Day 63 September 14, 2020
+
 **Today's Progress:**  
 
 **Thoughts:** 
