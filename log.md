@@ -581,6 +581,14 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 64 September 15, 2020
 
+**Today's Progress:**  Laziness and procrastination got a hold of me and I just did the [problem of the day](assets/strP.png). I really should work on my schedule. Peep my new IDE Material theme.
+
+**Thoughts:** No thoughts, just sleepy.
+
+**Non-coding Activity:** You know I've been hammering on reducing my Whatsapp and other social media consumption? Well today's own was much, in my defense I had a study to host by 8pm but it's a weak excuse. So I'll be looking at totally ignoring my Whatsapp and other social media apps and chatting for only an hour a day. Got a call from the post office to come and pick my package so I'll be going there to collect it, hopefully enter the market to pick one or two.
+
+### Day 65 September 16, 2020
+
 **Today's Progress:**  
 
 **Thoughts:** 
