@@ -572,6 +572,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 63 September 14, 2020
 
+**Today's Progress:**  Looked Object-Relational Mapping(ORM). It is a concept of converting data from an object-oriented programming language to relational database representation and vice versa. It solves the problem of matching two different type systems together and synchronize the data flow between them. I've worked with Room before and it's an example of ORM.
+
+**Thoughts:** ORM sounds like a huge deal but from what I did with Room it isn't that hard.
+
+**Non-coding Activity:** Watched some episodes of [Daily Lives of Highschool Boys](https://en.wikipedia.org/wiki/Daily_Lives_of_High_School_Boys). I am actually looking for a way to drastically reduce my intake of the internet especially social media. I disabled notifications for my Whatsapp, will soon do so to other social media apps.
+
+
+### Day 64 September 15, 2020
+
 **Today's Progress:**  
 
 **Thoughts:** 
