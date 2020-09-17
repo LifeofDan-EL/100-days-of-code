@@ -589,6 +589,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 65 September 16, 2020
 
+**Today's Progress:** Looked into the Single Responsibility Principle, which funny enough is what the S in SOLID acronyms stands or. It talks about you focusing on one thing at a time instead of dividing attention. For me, this is more productive.
+
+**Thoughts:** None
+
+**Non-coding Activity:** I had to run around for the errands, now most parts of Port Harcourt are congested, due to the various works undergoing construction.
+
+
+### Day 66 September 17, 2020
+
 **Today's Progress:**  
 
 **Thoughts:** 
