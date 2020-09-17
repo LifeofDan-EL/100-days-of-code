@@ -598,6 +598,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 66 September 17, 2020
 
+**Today's Progress:**  Remembered I didn't complete modules in the Control Flow section, finished the For Loop, which was giving me an headache before. Wrote some simple sweet code but ran into a problem in the While loop module. I am to take inputs and sum all the elements before 0, tried one way and it doesn't count the initial element. Tried another and it doesn't add the second element. I want to stick to using a while loop and not do a hack.
+
+**Thoughts:**  I really ran into some crazy questions concerning for loops.
+
+**Non-coding Activity:** I started on time so I was able to do much. Did laundry, been long since we saw good sunshine. I actually still spent time online, omo I don tire. Need to put that time towards watching stuff and reading too. I'll try to finish my challenges during the day so I can have free time at night.
+
+
+### Day 67 September 18, 2020
+
 **Today's Progress:**  
 
 **Thoughts:** 
