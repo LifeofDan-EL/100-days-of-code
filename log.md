@@ -607,7 +607,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 67 September 18, 2020
 
-**Today's Progress:**  
+**Today's Progress:**  Tried to pass the problem I was failing but I can't seem to get it to work yet. In solving other problems I actually got to use Collections.frequency, it basically returns number of occurrence of an element. Kotlin has nice APIs sha.Looked into Open/Closed principle which is part of SOLID.
+
+**Thoughts:** The more I try problems the more I get to discover new things about Kotlin, it's amazing.
+
+**Non-coding Activity:** Watched [A Silent Voice](https://en.wikipedia.org/wiki/A_Silent_Voice_(film)), I really enjoyed it because I get to see Bullying from a different perspective never seen before. It's a solid 9/10 for me. I slept in the afternoon so I had to work on my challenge at night. Will try to not lay on the bed after a meal, because lately that's my weakness.
+
+### Day 68 September 19, 2020
+
+**Today's Progress:**
 
 **Thoughts:** 
 
