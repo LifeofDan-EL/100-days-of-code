@@ -615,6 +615,15 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 68 September 19, 2020
 
+**Today's Progress:** Part of the Control Flow structure module, [passed the problem](assets/sumE.png) that was giving me a headache. Unfortunately or fortunately I ran into another one and someone suggested I really need to rest, which I will do. 
+
+**Thoughts:** I really need to rest too.
+
+**Non-coding Activity:** Today is World Clean Up day but unfortunately I wasn't able to get people from my local community to join. Attended the I4G DOR Workshop which was centered on running successful events. Hosted an I4G UNN circle event today, Techie101: Getting Started with Tech.
+
+
+### Day 69 September 20, 2020
+
 **Today's Progress:**
 
 **Thoughts:** 
