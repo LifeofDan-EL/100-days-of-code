@@ -624,8 +624,17 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 69 September 20, 2020
 
+**Today's Progress:** At times when you realize what was making your code fail, it's usually funny. I was having an extra output for [this code](assets/squareNum.png) earlier just because I initialized a variable and assigned it arr * arr, then I put the variable in the while block.
+
+**Thoughts:**  Coding can be frustrating when you have an error but fun when you resolve it.
+
+**Non-coding Activity:** Watched [A Whisker Way](https://en.wikipedia.org/wiki/A_Whisker_Away), in my opinion romance anime movies are very very great. Was busy with meetings and all.
+
+### Day 70 September 21, 2020
+
 **Today's Progress:**
 
 **Thoughts:** 
 
 **Non-coding Activity:**
+
