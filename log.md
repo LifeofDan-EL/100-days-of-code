@@ -567,7 +567,8 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
  
 **Thoughts:**  Saw SOLID design principles, looked liked one FANG level stuff.
 
-**Non-coding Activity:** Completed [Far Cry 3](https://en.wikipedia.org/wiki/Far_Cry_3) today, played lots of the side missions but it's boring to me now, I guess I'll just uninstall. I really want to learn how to play NBA games.
+**Non-coding Activity:** Completed [Far Cry 3](https://en.wikipedia.org/wiki/Far_Cry_3) today, played lots of the side missions but it's boring to me now, I guess I'll just uninstall. I really want to learn how to play NBA g
+ames.
 
 
 ### Day 63 September 14, 2020
@@ -632,9 +633,17 @@ N.B. : I believe people should pay for software/books they can afford. In the ca
 
 ### Day 70 September 21, 2020
 
+**Today's Progress:** Finally done with all topics under the control flow module. This part gave me a tough time. Learnt about and how to use Labels, Return, Break(not new), Continue statements. There were exciting problems too, and it was fun solving them.
+
+**Thoughts:** I'm proud of the programmer I am becoming.
+
+**Non-coding Activity:** Watched a Nigerian [Living in Bondage 2](https://en.wikipedia.org/wiki/Living_in_Bondage:_Breaking_Free), enjoyed it, also finished [Daily Lives of Highschool Boys](https://en.wikipedia.org/wiki/Daily_Lives_of_High_School_Boys), the ending was so emotional to me.
+
+
+### Day 71 September 22, 2020
+
 **Today's Progress:**
 
 **Thoughts:** 
 
 **Non-coding Activity:**
-
