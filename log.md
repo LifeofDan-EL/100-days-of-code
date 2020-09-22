@@ -639,8 +639,15 @@ ames.
 
 **Non-coding Activity:** Watched a Nigerian [Living in Bondage 2](https://en.wikipedia.org/wiki/Living_in_Bondage:_Breaking_Free), enjoyed it, also finished [Daily Lives of Highschool Boys](https://en.wikipedia.org/wiki/Daily_Lives_of_High_School_Boys), the ending was so emotional to me.
 
-
 ### Day 71 September 22, 2020
+
+**Today's Progress:** The [problem of the day](assets/pairwise.png) was rated hard, a program to find the maximum pairwise product and I'm proud I attempted it and I'm proud of my solution. Found out I skipped a topic, Increment and Decrement in Basic operations module, completed it.
+
+**Thoughts:** By tomorrow, I'll try to tackle the Function module topics.
+
+**Non-coding Activity:** Part of exploring [DCComics](https://en.wikipedia.org/wiki/DC_Comics) characters, most of the knowledge I know from [Watchmem](https://en.wikipedia.org/wiki/Watchmen) are either from Wikipedia or discussions. Got [Doomsday clock](https://en.wikipedia.org/wiki/Doomsday_Clock_(comics)) to read because of I heard Dr Manhattan played a huge role but found out it was a sequel of Watchmen.Got Watchmen and I've been reading the issues today. The way Dr Manhattan's perception of time is portrayed is mind blowing. The only downside I see to his powers is the fact that he barely takes action. He rarely tries to stop anything from happening, which is great though.
+
+### Day 72 September 23, 2020
 
 **Today's Progress:**
 
