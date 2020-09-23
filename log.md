@@ -645,12 +645,22 @@ ames.
 
 **Thoughts:** By tomorrow, I'll try to tackle the Function module topics.
 
-**Non-coding Activity:** Part of exploring [DCComics](https://en.wikipedia.org/wiki/DC_Comics) characters, most of the knowledge I know from [Watchmem](https://en.wikipedia.org/wiki/Watchmen) are either from Wikipedia or discussions. Got [Doomsday clock](https://en.wikipedia.org/wiki/Doomsday_Clock_(comics)) to read because of I heard Dr Manhattan played a huge role but found out it was a sequel of Watchmen.Got Watchmen and I've been reading the issues today. The way Dr Manhattan's perception of time is portrayed is mind blowing. The only downside I see to his powers is the fact that he barely takes action. He rarely tries to stop anything from happening, which is great though.
+**Non-coding Activity:** Part of exploring [DCComics](https://en.wikipedia.org/wiki/DC_Comics) characters, most of the knowledge I know from [Watchmen](https://en.wikipedia.org/wiki/Watchmen) are either from Wikipedia or discussions. Got [Doomsday clock](https://en.wikipedia.org/wiki/Doomsday_Clock_(comics)) to read because of I heard Dr Manhattan played a huge role but found out it was a sequel of Watchmen.Got Watchmen and I've been reading the issues today. The way Dr Manhattan's perception of time is portrayed is mind blowing. The only downside I see to his powers is the fact that he barely takes action. He rarely tries to stop anything from happening, which is great though.
 
 ### Day 72 September 23, 2020
+
+**Today's Progress:** Looked into the dreaded Regex lol, I've always been running from it but thanks to this period, I've actually used it to solve some problems earlier on. Read about the theoretic part of Regex, saw what the . , ? , / characters basically do.
+
+**Thoughts:** Although I don't have full grasp of it, at least I have a basic understanding of it.
+
+**Non-coding Activity:** Finished with [Watchmen](https://en.wikipedia.org/wiki/Watchmen), the dots from [Watchmen series](https://en.wikipedia.org/wiki/Watchmen_(TV_series)) connect more. This is a masterpiece, DC Comics content is amazing. Kudos to Alan Moore, started [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock_(comics)).
+
+
+### Day 73 September 24, 2020
 
 **Today's Progress:**
 
 **Thoughts:** 
 
 **Non-coding Activity:**
+
