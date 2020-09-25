@@ -656,7 +656,7 @@ ames.
 **Non-coding Activity:** Finished with [Watchmen](https://en.wikipedia.org/wiki/Watchmen), the dots from [Watchmen series](https://en.wikipedia.org/wiki/Watchmen_(TV_series)) connect more. This is a masterpiece, DC Comics content is amazing. Kudos to Alan Moore, started [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock_(comics)).
 
 
-### Day 73 September 24, 2020 
+### Day 73 September 24, 2020
 
 **Today's Progress:** Solved the unfinished Control Flow - Repeat module. They added a new section under Kotlin that gives a basic introduction to Kotlin for Android. Took and finished them, it was fun, been a while I wrote code for Android. Hopefully I clear part of the Functions module soon.
 
@@ -666,6 +666,16 @@ ames.
 
 
 ### Day 74 September 25, 2020 
+
+**Today's Progress:** I fell ill, unable to do anything. I need to rest.
+
+
+**Thoughts:** 
+
+**Non-coding Activity:**
+
+
+### Day 75 September 26, 2020 
 
 **Today's Progress:**
 
