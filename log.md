@@ -669,13 +669,20 @@ ames.
 
 **Today's Progress:** I fell ill, unable to do anything. I need to rest.
 
-
 **Thoughts:** 
 
 **Non-coding Activity:**
 
 
 ### Day 75 September 26, 2020 
+
+**Today's Progress:** Still ill.
+
+**Thoughts:** 
+
+**Non-coding Activity:**
+
+### Day 76 September 27, 2020 
 
 **Today's Progress:**
 
