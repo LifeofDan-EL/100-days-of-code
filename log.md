@@ -669,23 +669,11 @@ ames.
 
 **Today's Progress:** I fell ill, unable to do anything. I need to rest.
 
-**Thoughts:** 
-
-**Non-coding Activity:**
-
-
 ### Day 75 September 26, 2020 
 
 **Today's Progress:** Still ill.
 
-**Thoughts:** 
+### Day 76 September 27, 2020 - October 25, 2019
 
-**Non-coding Activity:**
+**Closing Remarks:** It's been 25 days since I last I made a log, after I fell ill, it took a while for me to regain my strength. When I finally was to resume, my country Nigeria started nationwide protests against police brutality under the hashtag on [Twitter](https://twitter.com) [#EndSARS](https://techcabal.com/2020/10/09/end-sars-nigerian-twitter-warriors/). I had to join and be part of the struggle because it is a struggle to see that my unborn children get a better Nigeria. Due to this, I have been busy both online and offline and I really didn't have the appetite to code. There was even a [massacre on the lives of innocent unarmed protesters at the Lekki Toll Gate](https://en.wikipedia.org/wiki/Lekki_massacre), an event which will forever remain in our hearts. I have finally gotten the strength to resume, in as much as I am done with the #100DaysOfCode, my coding doesn't stop. I am proud I started this, my skill in Kotlin is far better than it used to be. I am even looking towards getting into web development through the use of WordPress professionally.
 
-### Day 76 September 27, 2020 
-
-**Today's Progress:**
-
-**Thoughts:** 
-
-**Non-coding Activity:**
